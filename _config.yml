@@ -1,5 +1,45 @@
-title: Muhammad Zeeshan
+title: "Muhammad Zeeshan - AI Engineer & Innovator"
 logo: /assets/img/zeeshan.jpg
-description: text below image
-show_downloads: true
+description: "Pushing the boundaries of AI with innovative solutions. Explore projects, achievements, and insights below."
 theme: jekyll-theme-minimal
+
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Blog"
+    url: "/blog"
+  - title: "About Me"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+
+# Social Links
+social_links:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/muhammadzeeshan007/"
+  - title: "GitHub"
+    url: "https://github.com/MalikZeeshan1122/Machine_Learning_Engineer.git"
+  - title: "Twitter"
+    url: "https://twitter.com/yourusername"
+
+# Footer Customization
+footer:
+  text: "Crafted with ❤️ by Muhammad Zeeshan | Powered by Jekyll"
+  show_social_icons: true
+
+# Features
+features:
+  - enable_dark_mode: true
+  - show_downloads: true
+  - highlight_code: true
+
+# Style Customization
+custom_styles:
+  background_color: "#f4f4f4"
+  primary_color: "#0d6efd"
+  accent_color: "#ffc107"
+  font: "Roboto, sans-serif"
+
